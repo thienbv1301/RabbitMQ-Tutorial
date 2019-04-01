@@ -1,0 +1,15 @@
+HelloWorld/.vs/
+HelloWorld/Receive/obj/
+HelloWorld/Send/bin/
+HelloWorld/Send/obj/
+Topic/.vs/
+Topic/EmitLogTopic/bin/
+Topic/EmitLogTopic/obj/
+Topic/ReceiveLogsTopic/bin/
+HelloWorld/Receive/bin/
+Topic/ReceiveLogsTopic/obj/
+WorkQueues/.vs/
+WorkQueues/NewTask/bin/
+WorkQueues/NewTask/obj/
+WorkQueues/WorkQueues/bin/
+WorkQueues/WorkQueues/obj/
